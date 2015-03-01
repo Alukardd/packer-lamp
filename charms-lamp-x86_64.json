@@ -61,7 +61,7 @@
     [
       {
         "type": "compress",
-        "format": "pgzip",
+        "format": "bgzf",
         "output": "output/charms-lamp-x86_64-compress/",
         "only": ["qemu"]
       }
